@@ -2903,7 +2903,7 @@
       },
       "category": "Tools & Integrations",
       "description": "Payments integration for checkouts, subscriptions, and billing with live API and documentation MCP servers with browser OAuth.",
-      "icon": "./plugins/dodopayments/dodo-agent-plugin/assets/icon.svg"
+      "icon": "./plugins/dodopayments/dodo-agent-plugin/assets/icon.png"
     },
     {
       "name": "droplinked-codex-plugin",
